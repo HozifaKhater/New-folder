@@ -1,0 +1,1 @@
+web: streamlit run shift_config_pipeline.py 
